@@ -1,6 +1,6 @@
 # PongGame
 
-This is classic pong game written in Python__
+This is classic pong game written in Python_
 Written by: @RolandNaijuka__
 
 This is a two player game with two simulating the two player pong game __
